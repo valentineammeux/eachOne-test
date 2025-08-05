@@ -1,1 +1,0 @@
-$(document).on('newPage', function(e, data) { $('img[src$=".gif"]').each(function(){    $(this).attr("src", $(this).attr('src'));}) });
